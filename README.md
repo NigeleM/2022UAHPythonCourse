@@ -1,2 +1,2 @@
-# 2022UAHPythonCourse
+# 2022 UAH Python Course
 Python Summer Course
