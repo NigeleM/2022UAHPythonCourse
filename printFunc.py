@@ -3,7 +3,6 @@
 """
 This is the first program we will run
 Program shows how the print function works
-
 """
 
 print("Hello World")
