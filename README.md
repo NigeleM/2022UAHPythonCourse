@@ -2,3 +2,6 @@
 Python Summer Course
 1. Intro to Computer Science
    - Hello World program
+   - Print function
+   - Variables
+   - Input
