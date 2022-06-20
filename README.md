@@ -5,3 +5,11 @@ Python Summer Course
    - Print function
    - Variables
    - Input
+2. Basics 
+   - if else statements
+   - input , process , output
+   - loops
+3. Basics 2
+   - Structures
+   - Algorithms
+   - Complex programs
